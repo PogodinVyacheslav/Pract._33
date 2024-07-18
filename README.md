@@ -19,8 +19,7 @@ docker-compose up --build (Запуск контейнеров)
 POST-запрос на http://127.0.0.1:8000/searchEmpl/
 
 с телом в формате JSON: (Нажать на Send)
-'''
-{
+
+''' {
     "search_term": "параметр"
-}
-'''
+} '''
